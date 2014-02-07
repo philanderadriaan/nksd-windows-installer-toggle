@@ -1,0 +1,3 @@
+C:\Users\padriaan.NKSCHOOLS\Documents\Visual Studio 2013\Projects\Windows Installer Toggle\Windows Installer Toggle\bin\Debug\Windows Installer Toggle.exe.config
+C:\Users\padriaan.NKSCHOOLS\Documents\Visual Studio 2013\Projects\Windows Installer Toggle\Windows Installer Toggle\obj\Debug\Windows Installer Toggle.exe
+C:\Users\padriaan.NKSCHOOLS\Documents\Visual Studio 2013\Projects\Windows Installer Toggle\Windows Installer Toggle\obj\Debug\Windows Installer Toggle.pdb
