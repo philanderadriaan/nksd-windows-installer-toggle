@@ -1,0 +1,12 @@
+c:\users\padriaan.nkschools\documents\visual studio 2013\Projects\Windows Installer Toggle\Windows Installer Toggle\bin\Release\Windows Installer Toggle.exe.config
+c:\users\padriaan.nkschools\documents\visual studio 2013\Projects\Windows Installer Toggle\Windows Installer Toggle\bin\Release\Windows Installer Toggle.exe.manifest
+c:\users\padriaan.nkschools\documents\visual studio 2013\Projects\Windows Installer Toggle\Windows Installer Toggle\bin\Release\Windows Installer Toggle.application
+c:\users\padriaan.nkschools\documents\visual studio 2013\Projects\Windows Installer Toggle\Windows Installer Toggle\bin\Release\Windows Installer Toggle.exe
+c:\users\padriaan.nkschools\documents\visual studio 2013\Projects\Windows Installer Toggle\Windows Installer Toggle\bin\Release\Windows Installer Toggle.pdb
+c:\users\padriaan.nkschools\documents\visual studio 2013\Projects\Windows Installer Toggle\Windows Installer Toggle\obj\Release\Windows_Installer_Toggle.ToggleForm.resources
+c:\users\padriaan.nkschools\documents\visual studio 2013\Projects\Windows Installer Toggle\Windows Installer Toggle\obj\Release\Windows_Installer_Toggle.Properties.Resources.resources
+c:\users\padriaan.nkschools\documents\visual studio 2013\Projects\Windows Installer Toggle\Windows Installer Toggle\obj\Release\Windows Installer Toggle.csproj.GenerateResource.Cache
+c:\users\padriaan.nkschools\documents\visual studio 2013\Projects\Windows Installer Toggle\Windows Installer Toggle\obj\Release\Windows Installer Toggle.exe.manifest
+c:\users\padriaan.nkschools\documents\visual studio 2013\Projects\Windows Installer Toggle\Windows Installer Toggle\obj\Release\Windows Installer Toggle.application
+c:\users\padriaan.nkschools\documents\visual studio 2013\Projects\Windows Installer Toggle\Windows Installer Toggle\obj\Release\Windows Installer Toggle.exe
+c:\users\padriaan.nkschools\documents\visual studio 2013\Projects\Windows Installer Toggle\Windows Installer Toggle\obj\Release\Windows Installer Toggle.pdb
