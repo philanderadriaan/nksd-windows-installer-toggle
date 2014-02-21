@@ -21,4 +21,3 @@ namespace Windows_Installer_Toggle
     }
 }
 
-z
