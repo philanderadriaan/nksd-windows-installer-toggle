@@ -8,9 +8,6 @@ namespace Windows_Installer_Toggle
 {
     static class Program
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
         [STAThread]
         static void Main()
         {
@@ -20,4 +17,3 @@ namespace Windows_Installer_Toggle
         }
     }
 }
-
